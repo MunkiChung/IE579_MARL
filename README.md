@@ -14,6 +14,7 @@ https://arxiv.org/pdf/1810.09202.pdf
 Multi-Agent Particle Environment package (from https://github.com/openai/multiagent-particle-envs)
 
 `pip install git+https://github.com/openai/multiagent-particle-envs`
+
 `pip install gym==0.10.5` # to downgrade gym
 
 ## Contact
