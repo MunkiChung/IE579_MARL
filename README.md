@@ -1,6 +1,6 @@
 # IE579_MARL
 
-An tutorial code for the project #3 in KAIST IE579 class.
+An tutorial code for the Homework #4 in KAIST IE579 class.
 
 ## Code structure
 `DGN-R.ipynb`: contains tutorial code for implementing GRAPH CONVOLUTIONAL REINFORCEMENT LEARNING (ICLR, 2020)
@@ -18,6 +18,10 @@ Multi-Agent Particle Environment package (from https://github.com/openai/multiag
 `pip install git+https://github.com/openai/multiagent-particle-envs`
 
 `pip install gym==0.10.5` # to downgrade gym
+
+## Deliverable (50 score)
+
+- Code with consistent regularization term (.ipynb or .py)
 
 ## Contact
 
