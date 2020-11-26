@@ -1,4 +1,4 @@
-# IE579_MARL (Last updated at Nov 24, 10:18 am)
+# IE579_MARL (Last updated (grading policy) at Nov 26, 11:25 am)
 
 An tutorial code for the Homework #4 in KAIST IE579 class.
 
@@ -25,6 +25,10 @@ Multi-Agent Particle Environment package (from https://github.com/openai/multiag
 - Figure with results
    - should include loss, reward of two algorithms (w/, w/o consistent regulization)
 
+## Grading policy
+- Just adding KL regulation would be enough.
+- It would be best if you achieve good performance, but it is difficult to achieve good results since this environment is originally designed more suitable for continuous action space than discrete action space.
+- So I will not include the performance to the score of this homework.
 
 ## Contact
 
